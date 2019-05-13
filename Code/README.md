@@ -17,6 +17,13 @@ Enthält die wesentlichen Berechnungen, die auf https://github.com/krumpefp/osm_
   * Polygon-Check-Modul
   * Polygon-Erosion
   * Calculation-Measurement
+  * Polygonfamily-to-GeoJSON
 
 ## Visualization(Python)
-Innerhalb diesem Ordner befinden sich verschiedene Jupyter Notebook Anwendungen zu Visualieung der Ergebnisse der Rust-Berechnungen.
+Innerhalb diesem Ordner befinden sich verschiedene Jupyter Notebook Anwendungen zu Visualieung der Ergebnisse der Rust-Berechnungen:
+   * Point of Inaccessibility Berechnungen
+   * FMI-Lon-Lat Format Plotter
+   * Triangulierung und Skellettierung Visualisierung
+   * Morphologische Erosion auf Gitter
+   * Polygon-Segmentierung
+ 
